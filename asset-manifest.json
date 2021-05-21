@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//snack-game/static/css/main.d904cdae.chunk.css",
+    "main.js": "//snack-game/static/js/main.8fe0898a.chunk.js",
+    "main.js.map": "//snack-game/static/js/main.8fe0898a.chunk.js.map",
+    "runtime-main.js": "//snack-game/static/js/runtime-main.2bf97d89.js",
+    "runtime-main.js.map": "//snack-game/static/js/runtime-main.2bf97d89.js.map",
+    "static/js/2.7860309f.chunk.js": "//snack-game/static/js/2.7860309f.chunk.js",
+    "static/js/2.7860309f.chunk.js.map": "//snack-game/static/js/2.7860309f.chunk.js.map",
+    "index.html": "//snack-game/index.html",
+    "static/css/main.d904cdae.chunk.css.map": "//snack-game/static/css/main.d904cdae.chunk.css.map",
+    "static/js/2.7860309f.chunk.js.LICENSE.txt": "//snack-game/static/js/2.7860309f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf97d89.js",
+    "static/js/2.7860309f.chunk.js",
+    "static/css/main.d904cdae.chunk.css",
+    "static/js/main.8fe0898a.chunk.js"
+  ]
+}
